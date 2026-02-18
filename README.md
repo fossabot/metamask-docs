@@ -1,4 +1,6 @@
 # MetaMask developer documentation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmetamask-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmetamask-docs?ref=badge_shield)
+
 
 This is the MetaMask developer documentation repository.
 The documentation site is hosted at [`docs.metamask.io`](https://docs.metamask.io), and it's
@@ -46,3 +48,7 @@ Build the documentation site locally using the following steps.
    Once the server starts, you can view the documentation at `http://localhost:3003`.
 
 For more information on contributing to the documentation, see the [full contribution guidelines](CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmetamask-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fmetamask-docs?ref=badge_large)
